@@ -34,3 +34,12 @@ python 'путь к проекту'/app.py
 6. Откроется страница 127.0.0.1:5000/result/<введённое число>
 
 где будет факториал введенного числа
+
+_____
+
+Или
+
+Использовать докер: https://hub.docker.com/repository/docker/aksenof/factor
+
+docker pull aksenof/factor
+
